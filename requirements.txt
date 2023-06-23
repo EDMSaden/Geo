@@ -1,0 +1,3 @@
+easyocr
+pywin32
+openpyxl
